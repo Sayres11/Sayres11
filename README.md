@@ -8,4 +8,4 @@
 
 -I know:
 
-<img src="https://github.com/Sayres11/Sayres11/blob/main/icons/java.png" width="50" />     <img src="https://github.com/Sayres11/Sayres11/blob/main/icons/c%2B%2B.png" width="50" />     <img src="https://github.com/Sayres11/Sayres11/blob/main/icons/1200px-MySQL.svg_.png" width="50" />
+<img src="https://github.com/Sayres11/Sayres11/blob/main/icons/java.png" width="40" />     <img src="https://github.com/Sayres11/Sayres11/blob/main/icons/c%2B%2B.png" width="50" />     <img src="https://github.com/Sayres11/Sayres11/blob/main/icons/1200px-MySQL.svg_.png" width="50" />
